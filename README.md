@@ -7,11 +7,6 @@ This project aims to detect drowsiness using computer vision techniques. It util
 
 <img src="images/data_sample.png" width="500">
 
-## Features
-
-
-
-
 
 ## Features
 

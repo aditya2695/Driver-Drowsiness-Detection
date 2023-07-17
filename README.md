@@ -3,6 +3,15 @@
 
 This project aims to detect drowsiness using computer vision techniques. It utilizes PyTorch, OpenCV, and Haar Cascade for face detection. Ensemble learning is implemented using AlexNet and VGG16 models to enhance accuracy and performance.
 
+<<<<<<< HEAD
+## Dataset
+=======
+## Features
+>>>>>>> 9b4b9a8362e7df0d04a4b89f1598fe1cf38ccc9b
+
+<img src="images/data_sample.png" width="500">
+
+
 ## Features
 
     Drowsiness detection using computer vision

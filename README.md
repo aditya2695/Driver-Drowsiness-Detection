@@ -24,5 +24,10 @@ Ensemble learning is employed to combine the predictions from multiple models to
 
 **VGG16**: VGG16 is another widely used convolutional neural network architecture that achieved high accuracy on the ImageNet challenge. It has 16 layers, including 13 convolutional layers and three fully connected layers. VGG16 is known for its simplicity and effectiveness in capturing complex image patterns.
 
+## Evaluation
+
+**Alexnet Model**
+
+<img src="images/confusion_matrix.png">
 
 The predictions from each model are averaged to obtain the final prediction. By combining the outputs of multiple models, we aim to leverage the diverse representations and learn more comprehensive patterns for accurate drowsiness detection.

@@ -42,4 +42,34 @@ The predictions from each model are averaged to obtain the final prediction. By 
 
 <img src="images/custom_cnn_cm.png">
 
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Accuracy</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1 Score</th>
+  </tr>
+  <tr>
+    <td>Custom Model</td>
+    <td>0.9120689655172414</td>
+    <td>0.9194279810967003</td>
+    <td>0.9120689655172414</td>
+    <td>0.9115017186205544</td>
+  </tr>
+  <tr>
+    <td>AlexNet</td>
+    <td>0.9862068965517241</td>
+    <td>0.9866028869571619</td>
+    <td>0.9862068965517241</td>
+    <td>0.9862017778084882</td>
+  </tr>
+  <tr>
+    <td>Ensemble Model</td>
+    <td>0.906896551724138</td>
+    <td>0.9179784933317313</td>
+    <td>0.906896551724138</td>
+    <td>0.9069285029740717</td>
+  </tr>
+</table>
 

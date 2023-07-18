@@ -40,8 +40,6 @@ The predictions from each model are averaged to obtain the final prediction. By 
 
 **Custom Model**
 
-
-
-<img src="images/custom_cnn_cm.png.png">
+<img src="images/custom_cnn_cm.png">
 
 

@@ -42,6 +42,6 @@ The predictions from each model are averaged to obtain the final prediction. By 
 
 
 
-<img src="images/custom_model_cm.png">
+<img src="images/custom_cnn_cm.png.png">
 
 

@@ -52,24 +52,25 @@ The predictions from each model are averaged to obtain the final prediction. By 
   </tr>
   <tr>
     <td>Custom Model</td>
-    <td>0.9120689655172414</td>
-    <td>0.9194279810967003</td>
-    <td>0.9120689655172414</td>
-    <td>0.9115017186205544</td>
+    <td>0.912</td>
+    <td>0.919</td>
+    <td>0.912</td>
+    <td>0.912</td>
   </tr>
   <tr>
     <td>AlexNet</td>
-    <td>0.9862068965517241</td>
-    <td>0.9866028869571619</td>
-    <td>0.9862068965517241</td>
-    <td>0.9862017778084882</td>
+    <td>0.986</td>
+    <td>0.987</td>
+    <td>0.986</td>
+    <td>0.986</td>
   </tr>
   <tr>
     <td>Ensemble Model</td>
-    <td>0.906896551724138</td>
-    <td>0.9179784933317313</td>
-    <td>0.906896551724138</td>
-    <td>0.9069285029740717</td>
+    <td>0.907</td>
+    <td>0.918</td>
+    <td>0.907</td>
+    <td>0.907</td>
   </tr>
 </table>
+
 

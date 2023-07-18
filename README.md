@@ -30,4 +30,8 @@ Ensemble learning is employed to combine the predictions from multiple models to
 
 <img src="images/confusion_matrix.png">
 
+**Custom Model**
+
+<img src="images/custom_model_cm.png">
+
 The predictions from each model are averaged to obtain the final prediction. By combining the outputs of multiple models, we aim to leverage the diverse representations and learn more comprehensive patterns for accurate drowsiness detection.
